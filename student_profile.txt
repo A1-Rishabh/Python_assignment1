@@ -1,0 +1,9 @@
+--- STUDENT PROFILE LOG ---
+Name: Rishabh Bhardwaj
+Roll No: 2501060109
+Course: BCA
+University: K.R.  Mangalam Univercity
+City: Gurugram 
+Age: 18
+Hobby: Book Reading , Photography
+---------------------------
